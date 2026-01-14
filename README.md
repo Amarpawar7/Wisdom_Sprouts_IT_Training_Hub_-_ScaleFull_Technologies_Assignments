@@ -1,2 +1,7 @@
-# Wisdom_Sprouts_IT_Training_Hub_-_ScaleFull_Technologies_Assignments
-This internship program includes three weeks of training followed by project work with expert mentorship.
+# Data Science Assignments
+
+## Assignment 4 – Assignment No 4
+### Take any dataset from kaggle and perform all the EDA operations on the dataset
+#### - Dataset: Students Performance in Exams
+#### - Platform: Kaggle
+#### - Notebook Link:  [https://www.kaggle.com/code/username/eda-students-performance](https://www.kaggle.com/code/devilamar7/assignment-4)
