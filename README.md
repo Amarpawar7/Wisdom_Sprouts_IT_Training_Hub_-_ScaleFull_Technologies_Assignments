@@ -1,4 +1,4 @@
-# Data Science Assignments
+# Training Assignments
 
 ## Assignment 4 – Assignment No 4
 ### Take any dataset from kaggle and perform all the EDA operations on the dataset
